@@ -8,7 +8,7 @@ CREATE TABLE gama_producto (
 	imagen VARCHAR(256) 
 	);
 	
-CREATE TABLE ï»¿producto (
+CREATE TABLE producto (
 	codigo_producto VARCHAR(15) PRIMARY KEY,
 	nombre VARCHAR(70),
 	gama VARCHAR(50),
